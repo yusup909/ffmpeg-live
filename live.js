@@ -2,7 +2,7 @@
 
 const { spawn } = require('child_process');
 
-const url = 'https://www.youtube.com/watch?v=YOUR_VIDEO_ID'; // Replace with your YouTube video URL
+const url = 'https://www.youtube.com/live/g0a57mOaqBE?feature=share'; // Replace with your YouTube video URL
 
 const rtmpUrl = 'rtmp://localhost/live/stream'; // Replace with your RTMP server URL
 
